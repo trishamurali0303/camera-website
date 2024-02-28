@@ -1,0 +1,92 @@
+
+
+.hero{
+    height: 300px;
+    background-image: url(images/bg2camera.jpeg);
+    background-repeat:no-repeat;
+background-size: cover;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 600;
+}
+
+.hero button{
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px;
+border-radius: 70px;
+background-color: rgb(255, 255, 255);
+color: rgb(76, 109, 105);
+font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+
+border-color: white;
+}
+
+button:hover{
+    background-color: rgb(191, 229, 230);
+    color: #395255;
+}
+
+.hero h1{
+    font-family: "VT323", monospace;
+    font-weight: 700;
+}
+
+.btn_search{
+    background-color: rgb(191, 229, 230);
+    color: rgb(76, 109, 105);
+    border-radius: 70px;
+    font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.about-text h2{
+    font-family: "VT323", monospace;
+    font-weight: 800;
+    color:  rgb(76, 109, 105);
+}
+.about-text p{
+    font-family: "helvetica";
+    color: rgb(128, 159, 155);
+    font-weight: lighter;
+}
+
+.about{
+margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.about button{
+    margin-top: 10px;
+    padding: 10px 20px 10px 20px;
+border-radius: 70px;
+background-color: rgb(255, 255, 255);
+color: rgb(76, 109, 105);
+font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+border-color: white;
+}
+
+button:hover{
+    background-color: rgb(191, 229, 230);
+    color: #395255;
+}
+
+.slides{
+    height: 400px;
+}
+
+.nav-text a{
+    font-family: Helvetica;
+    color: rgb(76, 109, 105);
+    font-weight: 100;
+    margin-left: 20px;
+}
+
+.car h3{
+    color: rgb(117, 136, 134);
+    font-weight:bolder;
+}
